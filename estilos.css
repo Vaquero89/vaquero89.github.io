@@ -1,0 +1,52 @@
+body
+{
+    background-color: aliceblue;
+}
+
+.menu
+{
+    background: #333;
+}
+
+.btn-menu
+{
+    color: yellow;
+    font-size: 25px;
+}
+
+.nav-link
+{
+    color: red;
+    
+    
+}
+
+
+.logo
+{
+    
+    width: 200px;
+    height: 100px;
+    
+}
+
+th, td
+{
+    border: solid 1px black;
+
+}
+
+td
+{
+    color:navy;
+    font-size: 23px;
+    font-weight: bold;
+    font-style: normal;
+    
+
+}
+h5
+{
+    color: navy;
+
+}
